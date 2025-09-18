@@ -110,7 +110,7 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 
 **Activity Director:** Laia Carlon 
 
-| ![](./Images/sync_LaiaCarlon.png) | ![](./Images/pick_LaiaCarlon.png) |
+| ![](./Images/syncLaia.png) | ![](./Images/pick_LaiaCarlon.png) |
 |:----------------------------:|:--------------------------------------:|
 | *a) VScode*                 | *b) roboDK Pick cube*                 |
 
